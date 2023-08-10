@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=U1-15
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Resistor SMD New DesignItemId=Resistor Fixed
+Change Component Footprint: Designator=R1 Old Footprint=SMD Resistor 805 New Footprint=RES SMD 0805
+Change Component Comment : Designator=R1 Old Comment=82.5 kOhms New Comment=Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Designator: OldDesignator=CC NewDesignator=VR CC
+Change Component Designator: OldDesignator=CV NewDesignator=VR CV
+Change Component Designator: OldDesignator=IN NewDesignator=LED1
+Change Component Designator: OldDesignator=OUT NewDesignator=LED2
+Change Component Description : Designator=R1 Old Description=PANASONIC ELECTRONIC COMPONENTS         ERJ6ENF8252V             SMD Chip Resistor, Thick Film, 82.5 kohm, 150 V, 0805 [2012 Metric], 125 mW,  1%, ERJ6E Series New Description=
+Change Component Library : Designator=R1 Old Library=Integrated_Library.IntLib New Library=Passive.IntLib
+Change component parameters: Designator = "R6" ("R6"); Footprint = "SMD Resistor 805"; UniqueID = "\UAIFHAXN" ("\UAIFHAXN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456976.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456976.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456977.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456977.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7941/1686128-7941719.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7941/1686128-7941719.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/16850/rc0805-16850409.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/16850/rc0805-16850409.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/46385/444164-46385020.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/46385/444164-46385020.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456975.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456975.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "SMD Resistor 805"; UniqueID = "\AQZTGUAQ" ("\AQZTGUAQ")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Added Room: Name=Buck converter
